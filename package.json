@@ -1,11 +1,15 @@
 {
   "name": "fishstix-eslint-config-pancake",
-  "version": "1.01",
+  "version": "1.0.1",
   "description": "Eslint config for PancakeSwap",
   "main": "lib/index.js",
   "files": [
     "lib"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/popstar555/fishstix-eslint-config-pancake.git"
+  },
   "license": "MIT",
   "author": "RabbitDoge",
   "private": false,
